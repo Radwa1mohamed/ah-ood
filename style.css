@@ -44,7 +44,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/imgs/R1.png'); /* غيري الاسم لمسار صورتك */
+    background-image: url('imgs/R1.png'); /* غيري الاسم لمسار صورتك */
     background-repeat: repeat;
     background-size: 320px auto;
     
